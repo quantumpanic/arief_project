@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8B9857AC-91DB-037B-E3E0-B29EAC52D19E}") = "arief_project", "Assembly-CSharp-firstpass.csproj", "{A345980F-CDE1-5E8D-CF78-484A229A6B2D}"
+EndProject
+Project("{8B9857AC-91DB-037B-E3E0-B29EAC52D19E}") = "arief_project", "Assembly-CSharp.csproj", "{1BE26FA8-B865-8A4E-C82A-A5EF7F4C0CB8}"
+EndProject
+Project("{8B9857AC-91DB-037B-E3E0-B29EAC52D19E}") = "arief_project", "Assembly-CSharp-Editor.csproj", "{17954D4D-EECA-4483-00AA-A8D0942D7FEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A345980F-CDE1-5E8D-CF78-484A229A6B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A345980F-CDE1-5E8D-CF78-484A229A6B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A345980F-CDE1-5E8D-CF78-484A229A6B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A345980F-CDE1-5E8D-CF78-484A229A6B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BE26FA8-B865-8A4E-C82A-A5EF7F4C0CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE26FA8-B865-8A4E-C82A-A5EF7F4C0CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE26FA8-B865-8A4E-C82A-A5EF7F4C0CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE26FA8-B865-8A4E-C82A-A5EF7F4C0CB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17954D4D-EECA-4483-00AA-A8D0942D7FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17954D4D-EECA-4483-00AA-A8D0942D7FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17954D4D-EECA-4483-00AA-A8D0942D7FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17954D4D-EECA-4483-00AA-A8D0942D7FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+/Users/matatagrafis_01/arief_project/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/matatagrafis_01/arief_project/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/matatagrafis_01/arief_project/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/matatagrafis_01/arief_project/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/matatagrafis_01/arief_project/Temp/bin/Debug/UnityEngine.dll
+/Users/matatagrafis_01/arief_project/Temp/bin/Debug/UnityEditor.dll
+/Users/matatagrafis_01/arief_project/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/matatagrafis_01/arief_project/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/matatagrafis_01/arief_project/Temp/bin/Debug/Mono.Cecil.dll
+/Users/matatagrafis_01/arief_project/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/matatagrafis_01/arief_project/Temp/bin/Debug/Unity.DataContract.dll
+/Users/matatagrafis_01/arief_project/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/matatagrafis_01/arief_project/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/matatagrafis_01/arief_project/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/matatagrafis_01/arief_project/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/matatagrafis_01/arief_project/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/matatagrafis_01/arief_project/Temp/bin/Debug/Mono.Cecil.Mdb.dll
